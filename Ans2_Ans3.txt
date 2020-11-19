@@ -1,0 +1,9 @@
+Answer :2 question
+
+echo "content/source_filename" >>destination_filename
+
+
+Answer :3
+cp file1.txt file2.txt
+
+echo file2.txt >> file3.txt
