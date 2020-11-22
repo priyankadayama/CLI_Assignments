@@ -1,9 +1,9 @@
-Answer :2 question
+How to append to the end of the existing file
 
-echo "content/source_filename" >>destination_filename
+Answer:echo "content/source_filename" >>destination_filename
 
 
-Answer :3
+How to copy contents to one file and append that to another file (withput overriding seconf file`s content)
 cp file1.txt file2.txt
 
 echo file2.txt >> file3.txt
